@@ -253,16 +253,16 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['SDAJ'] => array(self::TYPE['DZDAGZZDWGRBZJL']),
         IUserGroup::ID['SKXJSJ'] => array(self::TYPE['JXSZLJDW']),
         IUserGroup::ID['SWGS'] => array(self::TYPE['SBYHJBXX']),
-        IUserGroup::ID['CPQ'] => self::TYPE,
-        IUserGroup::ID['NXQ'] => self::TYPE,
-        IUserGroup::ID['YBX'] => self::TYPE,
-        IUserGroup::ID['JAX'] => self::TYPE,
-        IUserGroup::ID['CNX'] => self::TYPE,
-        IUserGroup::ID['GX'] => self::TYPE,
-        IUserGroup::ID['JLX'] => self::TYPE,
-        IUserGroup::ID['HX'] => self::TYPE,
-        IUserGroup::ID['XWX'] => self::TYPE,
-        IUserGroup::ID['PSX'] => self::TYPE,
+        IUserGroup::ID['CPQFGW'] => array(self::TYPE['XBXZCF'], self::TYPE['XBXZXK'],
+        IUserGroup::ID['NXQFGW'] => array(self::TYPE['XBXZCF'], self::TYPE['XBXZXK'],
+        IUserGroup::ID['YBXFGW'] => array(self::TYPE['XBXZCF'], self::TYPE['XBXZXK'],
+        IUserGroup::ID['JAXFGW'] => array(self::TYPE['XBXZCF'], self::TYPE['XBXZXK'],
+        IUserGroup::ID['CNXFGW'] => array(self::TYPE['XBXZCF'], self::TYPE['XBXZXK'],
+        IUserGroup::ID['GXFGW'] => array(self::TYPE['XBXZCF'], self::TYPE['XBXZXK'],
+        IUserGroup::ID['JLXFGW'] => array(self::TYPE['XBXZCF'], self::TYPE['XBXZXK'],
+        IUserGroup::ID['HXFGW'] => array(self::TYPE['XBXZCF'], self::TYPE['XBXZXK'],
+        IUserGroup::ID['XWXFGW'] => array(self::TYPE['XBXZCF'], self::TYPE['XBXZXK'],
+        IUserGroup::ID['PSXFGW'] => array(self::TYPE['XBXZCF'], self::TYPE['XBXZXK'])
     );
 
     const STATUS_NORMAL = 0;
