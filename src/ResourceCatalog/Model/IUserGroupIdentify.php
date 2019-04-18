@@ -5,7 +5,7 @@ interface IUserGroupIdentify
 {
     const IDENTIFY = array(
         IUserGroup::ID['NULL'] => 'NULL',
-        IUserGroup::ID['FZHGGWYH'] => 'FZHGGWYH',
+        IUserGroup::ID['FZHGGWYH'] => 'FGW',
         IUserGroup::ID['RHYBSZZ'] => 'RHYBSZZ',
         IUserGroup::ID['SWXCB'] => 'SWXCB',
         IUserGroup::ID['SWXB'] => 'SWXB',
