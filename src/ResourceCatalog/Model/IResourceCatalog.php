@@ -12,6 +12,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'QYYCMLXX' => 5,
         'SXQYHMD' => 6,
         'DYZGXX' => 7,
+
         'TEST' => 500
     );
 
