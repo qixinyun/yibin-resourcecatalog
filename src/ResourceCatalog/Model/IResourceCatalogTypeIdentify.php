@@ -29,6 +29,7 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['SLYSXKZXX'] => 'SLYSXKZXX',
         IResourceCatalog::TYPE['SPFYSXK'] => 'SPFYSXK',
         IResourceCatalog::TYPE['ESCJDPGJGHZZS'] => 'ESCJDPGJGHZZS',
+        IResourceCatalog::TYPE['SLGCZBXX'] => 'SLGCZBXX',
         IResourceCatalog::TYPE['SHZZNJXX'] => 'SHZZNJXX',
         IResourceCatalog::TYPE['GJJLTQYRZXX'] => 'GJJLTQYRZXX',
         IResourceCatalog::TYPE['YXZZDWJBGXX'] => 'YXZZDWJBGXX',
