@@ -95,6 +95,19 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['QYDXXX'] => 'qydxxx',
         IResourceCatalog::TYPE['CCJCJGXX'] => 'ccjcjgxx',
         IResourceCatalog::TYPE['SLGCZBXX'] => 'slgczbxx',
+
+        IResourceCatalog::TYPE['TZXMBLJGGSXX'] => 'tzxmbljggsxx',
+        IResourceCatalog::TYPE['TZXMMCDMPPXX'] => 'tzxmmcdmppxx',
+        IResourceCatalog::TYPE['SFJDRXX'] => 'sfjdrxx',
+        IResourceCatalog::TYPE['SFJDJGXX'] => 'sfjdjgxx',
+        IResourceCatalog::TYPE['LSZYXX'] => 'lszyxx',
+        IResourceCatalog::TYPE['LSNDPJXX'] => 'lsndpjxx',
+        IResourceCatalog::TYPE['LSSWSNDPJXX'] => 'lsswsndpjxx',
+        IResourceCatalog::TYPE['SAJLVJQ'] => 'sajlvjq',
+        IResourceCatalog::TYPE['BWGXX'] => 'bwgxx',
+        IResourceCatalog::TYPE['WWSDXX'] => 'wwsdxx',
+        IResourceCatalog::TYPE['WWSDGMXSJLSX'] => 'wwsdgmxsjlsx',
+        IResourceCatalog::TYPE['QYSWJBDJXX'] => 'qyswjbdjxx',
         IResourceCatalog::TYPE['TEST'] => 'test'
     );
 }
