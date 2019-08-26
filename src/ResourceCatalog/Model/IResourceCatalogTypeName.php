@@ -94,6 +94,19 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYDXXX'] => '企业吊销信息',
         IResourceCatalog::TYPE['CCJCJGXX'] => '抽查检查结果信息',
         IResourceCatalog::TYPE['SLGCZBXX'] => '水利工程中标信息',
+
+        IResourceCatalog::TYPE['TZXMBLJGGSXX'] => '投资项目办理结果公示信息',
+        IResourceCatalog::TYPE['TZXMMCDMPPXX'] => '投资项目名称代码匹配信息',
+        IResourceCatalog::TYPE['SFJDRXX'] => '司法鉴定人信息',
+        IResourceCatalog::TYPE['SFJDJGXX'] => '司法鉴定机构信息',
+        IResourceCatalog::TYPE['LSZYXX'] => '律师执业信息',
+        IResourceCatalog::TYPE['LSNDPJXX'] => '律师年度评价信息',
+        IResourceCatalog::TYPE['LSSWSNDPJXX'] => '律师事务所年度评价信息',
+        IResourceCatalog::TYPE['SAJLVJQ'] => '4A级旅游景区',
+        IResourceCatalog::TYPE['BWGXX'] => '博物馆信息',
+        IResourceCatalog::TYPE['WWSDXX'] => '文物商店信息',
+        IResourceCatalog::TYPE['WWSDGMXSJLSX'] => '文物商店购买、销售文物有关记录事项',
+        IResourceCatalog::TYPE['QYSWJBDJXX'] => '企业税务基本登记信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }
