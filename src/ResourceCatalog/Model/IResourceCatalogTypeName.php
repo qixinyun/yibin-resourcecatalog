@@ -33,7 +33,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['GJJLTQYRZXX'] => '国家级龙头企业认证信息',
         IResourceCatalog::TYPE['YXZZDWJBGXX'] => '音像制作单位及变更信息',
         IResourceCatalog::TYPE['HSZYZGZXX'] => '护士执业资格证信息',
-        IResourceCatalog::TYPE['QYGSZXXX'] => '企业国税注销信息',
+        IResourceCatalog::TYPE['QYGSZXXX'] => '企业税务注销信息',
         IResourceCatalog::TYPE['QYDSXZCFXX'] => '企业地税行政处罚信息',
         IResourceCatalog::TYPE['AJNSRXX'] => 'A级纳税人信息',
         IResourceCatalog::TYPE['YHYJRJGCFXX'] => '银行业金融机构处罚信息',
