@@ -107,6 +107,14 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['WWSDXX'] => '文物商店信息',
         IResourceCatalog::TYPE['WWSDGMXSJLSX'] => '文物商店购买、销售文物有关记录事项',
         IResourceCatalog::TYPE['QYSWJBDJXX'] => '企业税务基本登记信息',
+        IResourceCatalog::TYPE['NSXYDJPDXX'] => '纳税信用等级评定信息',
+        IResourceCatalog::TYPE['QYQSGGXX'] => '企业欠税公告信息',
+        IResourceCatalog::TYPE['FZCNSRXX'] => '非正常纳税人信息',
+        IResourceCatalog::TYPE['LXSDJXX'] => '旅行社登记信息',
+        IResourceCatalog::TYPE['GRYCJJBAXX'] => '个人演出经纪备案信息',
+        IResourceCatalog::TYPE['XZJLXXZRR'] => '行政奖励信息（自然人）',
+        IResourceCatalog::TYPE['XZJLXXFRHQTZZ'] => '行政奖励信息（法人和其他组织）',
+        IResourceCatalog::TYPE['QYGDZCTZXMHZHBA'] => '企业固定资产投资项目核准或备案',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }
