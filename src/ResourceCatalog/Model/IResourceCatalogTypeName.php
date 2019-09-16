@@ -115,6 +115,9 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XZJLXXZRR'] => '行政奖励信息（自然人）',
         IResourceCatalog::TYPE['XZJLXXFRHQTZZ'] => '行政奖励信息（法人和其他组织）',
         IResourceCatalog::TYPE['QYGDZCTZXMHZHBA'] => '企业固定资产投资项目核准或备案',
+        IResourceCatalog::TYPE['SBQYCBXX'] => '社保企业参保信息',
+        IResourceCatalog::TYPE['YLAOBXXX'] => '养老保险信息',
+        IResourceCatalog::TYPE['GRJCXX'] => '个人基础信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }
