@@ -119,6 +119,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['SBQYCBXX'] => 'sbqycbxx',
         IResourceCatalog::TYPE['YLAOBXXX'] => 'ylaobxxx',
         IResourceCatalog::TYPE['GRJCXX'] => 'grjcxx',
+        IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => 'qyfrggxyzhpjjg',
         IResourceCatalog::TYPE['TEST'] => 'test'
     );
 }

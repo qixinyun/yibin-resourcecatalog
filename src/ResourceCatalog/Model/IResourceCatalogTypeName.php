@@ -118,6 +118,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['SBQYCBXX'] => '社保企业参保信息',
         IResourceCatalog::TYPE['YLAOBXXX'] => '养老保险信息',
         IResourceCatalog::TYPE['GRJCXX'] => '个人基础信息',
+        IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => '企业法人公共信用综合评价结果',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }
