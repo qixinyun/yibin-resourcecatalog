@@ -121,6 +121,9 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => '企业法人公共信用综合评价结果',
         IResourceCatalog::TYPE['TQNMGGZHMD'] => '拖欠农民工工资黑名单',
         IResourceCatalog::TYPE['ZDLDBZWFXWGBXX'] => '重大劳动保障违法行为公布信息',
+        IResourceCatalog::TYPE['XZJGQTJBXXB'] => '行政机关、群团基本信息表',
+        IResourceCatalog::TYPE['SYDWJBXXB'] => '事业单位基本信息表',
+        IResourceCatalog::TYPE['JSZJBXX'] => '驾驶证基本信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }
