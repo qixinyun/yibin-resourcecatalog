@@ -119,6 +119,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['YLAOBXXX'] => '养老保险信息',
         IResourceCatalog::TYPE['GRJCXX'] => '个人基础信息',
         IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => '企业法人公共信用综合评价结果',
+        IResourceCatalog::TYPE['TQNMGGZHMD'] => '拖欠农民工工资黑名单',
+        IResourceCatalog::TYPE['ZDLDBZWFXWGBXX'] => '重大劳动保障违法行为公布信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }
