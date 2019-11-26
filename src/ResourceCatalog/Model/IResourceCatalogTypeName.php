@@ -124,6 +124,10 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XZJGQTJBXXB'] => '行政机关、群团基本信息表',
         IResourceCatalog::TYPE['SYDWJBXXB'] => '事业单位基本信息表',
         IResourceCatalog::TYPE['JSZJBXX'] => '驾驶证基本信息',
+        IResourceCatalog::TYPE['DFXHIMDFR'] => '地方性黑名单（法人）',
+        IResourceCatalog::TYPE['DFXHIMDZRR'] => '地方性黑名单（自然人）',
+        IResourceCatalog::TYPE['DFXHGMDFR'] => '地方性红名单（法人）',
+        IResourceCatalog::TYPE['DFXHGMDZRR'] => '地方性红名单（自然人）',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }
