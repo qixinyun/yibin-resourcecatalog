@@ -18,4 +18,7 @@
 * [0.3.0](./Docs/Version/0.3.0.md "0.3.0")
 * [0.4.0](./Docs/Version/0.4.0.md "0.4.0")
 * [0.5.0](./Docs/Version/0.5.0.md "0.5.0")
-    * [0.5.1](./Docs/Version/0.5.1.md "0.5.1")
+* [0.6.0](./Docs/Version/0.6.0.md "0.6.0")
+	* [0.6.1](./Docs/Version/0.6.1.md "0.6.1")
+* [0.7.0](./Docs/Version/0.7.0.md "0.7.0")
+* [0.8.0](./Docs/Version/0.8.0.md "0.8.0")

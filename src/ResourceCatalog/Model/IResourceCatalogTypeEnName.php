@@ -125,6 +125,10 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['XZJGQTJBXXB'] => 'xzjgqtjbxxb',
         IResourceCatalog::TYPE['SYDWJBXXB'] => 'sydwjbxxb',
         IResourceCatalog::TYPE['JSZJBXX'] => 'jszjbxx',
+        IResourceCatalog::TYPE['DFXHIMDFR'] => 'dfxhimdfr',
+        IResourceCatalog::TYPE['DFXHIMDZRR'] => 'dfxhimdzrr',
+        IResourceCatalog::TYPE['DFXHGMDFR'] => 'dfxhgmdfr',
+        IResourceCatalog::TYPE['DFXHGMDZRR'] => 'dfxhgmdzrr',
         IResourceCatalog::TYPE['TEST'] => 'test'
     );
 }
