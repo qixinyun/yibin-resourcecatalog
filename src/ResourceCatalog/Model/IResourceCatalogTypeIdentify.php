@@ -128,6 +128,11 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['DFXHIMDZRR'] => 'DFXHIMDZRR',
         IResourceCatalog::TYPE['DFXHGMDFR'] => 'DFXHGMDFR',
         IResourceCatalog::TYPE['DFXHGMDZRR'] => 'DFXHGMDZRR',
+        
+        IResourceCatalog::TYPE['SCJRSXYZX'] => 'SCJRSXYZX',
+        IResourceCatalog::TYPE['ZDSSWFAJDSRSXYZX'] => 'ZDSSWFAJDSRSXYZX',
+        IResourceCatalog::TYPE['SCSFGWXZCFJBXXSXYZX'] => 'SCSFGWXZCFJBXXSXYZX',
+
         IResourceCatalog::TYPE['TEST'] => 'TEST'
     );
 }

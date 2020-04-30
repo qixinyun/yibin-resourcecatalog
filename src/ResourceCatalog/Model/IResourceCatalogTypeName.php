@@ -128,6 +128,11 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['DFXHIMDZRR'] => '地方性黑名单（自然人）',
         IResourceCatalog::TYPE['DFXHGMDFR'] => '地方性红名单（法人）',
         IResourceCatalog::TYPE['DFXHGMDZRR'] => '地方性红名单（自然人）',
+
+        IResourceCatalog::TYPE['SCJRSXYZX'] => '市场禁入_省信用中心',
+        IResourceCatalog::TYPE['ZDSSWFAJDSRSXYZX'] => '重大税收违法案件当事人_省信用中心',
+        IResourceCatalog::TYPE['SCSFGWXZCFJBXXSXYZX'] => '四川省发改委_行政处罚基本信息_2019年及以后_省信用中心',
+
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

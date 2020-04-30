@@ -64,6 +64,7 @@ interface IUserGroup extends IUserGroupIdentify
         'SFPKFJ' => 57,
         'SMCH' => 58,
         'SFL' => 59,
+        'SXYZX' => 60,
         'CPQFGJ' => 100,
         'NXQFGJ' => 200,
         'XZQFGJ' => 300,

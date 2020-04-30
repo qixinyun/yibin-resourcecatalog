@@ -75,5 +75,6 @@ interface IUserGroupIdentify
         IUserGroup::ID['XWXFGJ'] => 'XWXFGJ',
         IUserGroup::ID['PSXFGJ'] => 'PSXFGJ',
         IUserGroup::ID['LGJKQFZCHTZFWJ'] => 'LGJKQFZCHTZFWJ',
+        IUserGroup::ID['SXYZX'] => 'SXYZX',
     );
 }
