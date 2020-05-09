@@ -133,6 +133,9 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZDSSWFAJDSRSXYZX'] => '重大税收违法案件当事人_省信用中心',
         IResourceCatalog::TYPE['SCSFGWXZCFJBXXSXYZX'] => '四川省发改委_行政处罚基本信息_2019年及以后_省信用中心',
 
+        IResourceCatalog::TYPE['FRBLXYJLXX'] => '不良信用记录信息（法人）',
+        IResourceCatalog::TYPE['ZRRBLXYJLXX'] => '不良信用记录信息（自然人）',
+
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

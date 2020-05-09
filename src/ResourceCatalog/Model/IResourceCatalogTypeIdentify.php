@@ -133,6 +133,9 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['ZDSSWFAJDSRSXYZX'] => 'ZDSSWFAJDSRSXYZX',
         IResourceCatalog::TYPE['SCSFGWXZCFJBXXSXYZX'] => 'SCSFGWXZCFJBXXSXYZX',
 
+        IResourceCatalog::TYPE['FRBLXYJLXX'] => 'FRBLXYJLXX',
+        IResourceCatalog::TYPE['ZRRBLXYJLXX'] => 'ZRRBLXYJLXX',
+
         IResourceCatalog::TYPE['TEST'] => 'TEST'
     );
 }
