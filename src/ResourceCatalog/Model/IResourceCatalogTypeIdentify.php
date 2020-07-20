@@ -136,6 +136,10 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['FRBLXYJLXX'] => 'FRBLXYJLXX',
         IResourceCatalog::TYPE['ZRRBLXYJLXX'] => 'ZRRBLXYJLXX',
 
+        IResourceCatalog::TYPE['YZWFCXCZYSXXDSRMDSXYZX'] => 'YZWFCXCZYSXXDSRMDSXYZX',
+        IResourceCatalog::TYPE['YZZLSXQYSXYZX'] => 'YZZLSXQYSXYZX',
+        IResourceCatalog::TYPE['YCJYMLSXYZX'] => 'YCJYMLSXYZX',
+
         IResourceCatalog::TYPE['TEST'] => 'TEST'
     );
 }

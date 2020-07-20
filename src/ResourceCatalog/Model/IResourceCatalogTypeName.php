@@ -136,6 +136,10 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['FRBLXYJLXX'] => '不良信用记录信息（法人）',
         IResourceCatalog::TYPE['ZRRBLXYJLXX'] => '不良信用记录信息（自然人）',
 
+        IResourceCatalog::TYPE['YZWFCXCZYSXXDSRMDSXYZX'] => '严重违法超限超载运输失信当事人名单_省信用中心',
+        IResourceCatalog::TYPE['YZZLSXQYSXYZX'] => '严重质量失信企业_省信用中心',
+        IResourceCatalog::TYPE['YCJYMLSXYZX'] => '异常经营名录_省信用中心',
+
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }
