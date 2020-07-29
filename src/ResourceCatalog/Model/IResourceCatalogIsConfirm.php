@@ -142,6 +142,9 @@ interface IResourceCatalogIsConfirm
         IResourceCatalog::TYPE['YZZLSXQYSXYZX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['YCJYMLSXYZX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
 
+        IResourceCatalog::TYPE['FRCXXYJLXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['ZRRCXXYJLXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM']
     );
 }

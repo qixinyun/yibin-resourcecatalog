@@ -140,6 +140,9 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['YZZLSXQYSXYZX'] => '严重质量失信企业_省信用中心',
         IResourceCatalog::TYPE['YCJYMLSXYZX'] => '异常经营名录_省信用中心',
 
+        IResourceCatalog::TYPE['FRCXXYJLXX'] => '诚信信用记录信息（法人）',
+        IResourceCatalog::TYPE['ZRRCXXYJLXX'] => '诚信信用记录信息（自然人）',
+
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }

@@ -135,7 +135,10 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'YZWFCXCZYSXXDSRMDSXYZX' => 128,
         'YZZLSXQYSXYZX' => 129,
         'YCJYMLSXYZX' => 130,
+        'FRCXXYJLXX' => 131,
+        'ZRRCXXYJLXX' => 132,
         'TEST' => 500,
+
     );
 
     const USERGROUP_TYPE_RELATIONSHIP = array(
@@ -149,6 +152,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['DFXHGMDZRR'],
             self::TYPE['FRBLXYJLXX'],
             self::TYPE['ZRRBLXYJLXX'],
+            self::TYPE['FRCXXYJLXX'],
+            self::TYPE['ZRRCXXYJLXX'],
         ),
         IUserGroup::ID['FZHGGWYH'] => array(
             self::TYPE['JGJCDXZJL'],

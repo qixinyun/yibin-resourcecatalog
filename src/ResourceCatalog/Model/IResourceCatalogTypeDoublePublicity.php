@@ -139,6 +139,9 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['YZWFCXCZYSXXDSRMDSXYZX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['YZZLSXQYSXYZX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['YCJYMLSXYZX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+
+        IResourceCatalog::TYPE['FRCXXYJLXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['ZRRCXXYJLXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
     );
