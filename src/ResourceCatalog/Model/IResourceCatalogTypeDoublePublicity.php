@@ -94,7 +94,6 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['QYDXXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['CCJCJGXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['SLGCZBXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-
         IResourceCatalog::TYPE['TZXMBLJGGSXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['TZXMMCDMPPXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['SFJDRXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
@@ -128,21 +127,24 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['DFXHIMDZRR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['DFXHGMDFR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['DFXHGMDZRR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-        
         IResourceCatalog::TYPE['SCJRSXYZX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['ZDSSWFAJDSRSXYZX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['SCSFGWXZCFJBXXSXYZX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-
         IResourceCatalog::TYPE['FRBLXYJLXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['ZRRBLXYJLXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-
         IResourceCatalog::TYPE['YZWFCXCZYSXXDSRMDSXYZX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['YZZLSXQYSXYZX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['YCJYMLSXYZX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-
         IResourceCatalog::TYPE['FRCXXYJLXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['ZRRCXXYJLXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-        
+IResourceCatalog::TYPE['CKWLJJLXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+IResourceCatalog::TYPE['CKWLYQXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+IResourceCatalog::TYPE['GYSYJFXXFR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+IResourceCatalog::TYPE['GYSYJFXXZRR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+IResourceCatalog::TYPE['GYSYTQFYXXFR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+IResourceCatalog::TYPE['GYSYTQFYXXZRR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+IResourceCatalog::TYPE['SXBZXRMDYPB'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        //@position
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
     );
 }

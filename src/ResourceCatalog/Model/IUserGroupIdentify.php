@@ -76,5 +76,9 @@ interface IUserGroupIdentify
         IUserGroup::ID['PSXFGJ'] => 'PSXFGJ',
         IUserGroup::ID['LGJKQFZCHTZFWJ'] => 'LGJKQFZCHTZFWJ',
         IUserGroup::ID['SXYZX'] => 'SXYZX',
+        IUserGroup::ID['YBZQTRQ'] => 'YBZQTRQ',
+        IUserGroup::ID['YBHRRQ'] => 'YBHRRQ',
+        IUserGroup::ID['YBQYSW'] => 'YBQYSW',
+        IUserGroup::ID['GWSCSDLYBGDJ'] => 'GWSCSDLYBGDJ',
     );
 }

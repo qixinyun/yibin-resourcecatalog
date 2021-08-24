@@ -94,7 +94,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYDXXX'] => '企业吊销信息',
         IResourceCatalog::TYPE['CCJCJGXX'] => '抽查检查结果信息',
         IResourceCatalog::TYPE['SLGCZBXX'] => '水利工程中标信息',
-
         IResourceCatalog::TYPE['TZXMBLJGGSXX'] => '投资项目办理结果公示信息',
         IResourceCatalog::TYPE['TZXMMCDMPPXX'] => '投资项目名称代码匹配信息',
         IResourceCatalog::TYPE['SFJDRXX'] => '司法鉴定人信息',
@@ -128,21 +127,24 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['DFXHIMDZRR'] => '地方性黑名单（自然人）',
         IResourceCatalog::TYPE['DFXHGMDFR'] => '地方性红名单（法人）',
         IResourceCatalog::TYPE['DFXHGMDZRR'] => '地方性红名单（自然人）',
-
         IResourceCatalog::TYPE['SCJRSXYZX'] => '市场禁入_省信用中心',
         IResourceCatalog::TYPE['ZDSSWFAJDSRSXYZX'] => '重大税收违法案件当事人_省信用中心',
         IResourceCatalog::TYPE['SCSFGWXZCFJBXXSXYZX'] => '四川省发改委_行政处罚基本信息_2019年及以后_省信用中心',
-
         IResourceCatalog::TYPE['FRBLXYJLXX'] => '不良信用记录信息（法人）',
         IResourceCatalog::TYPE['ZRRBLXYJLXX'] => '不良信用记录信息（自然人）',
-
         IResourceCatalog::TYPE['YZWFCXCZYSXXDSRMDSXYZX'] => '严重违法超限超载运输失信当事人名单_省信用中心',
         IResourceCatalog::TYPE['YZZLSXQYSXYZX'] => '严重质量失信企业_省信用中心',
         IResourceCatalog::TYPE['YCJYMLSXYZX'] => '异常经营名录_省信用中心',
-
         IResourceCatalog::TYPE['FRCXXYJLXX'] => '诚信信用记录信息（法人）',
         IResourceCatalog::TYPE['ZRRCXXYJLXX'] => '诚信信用记录信息（自然人）',
-
+IResourceCatalog::TYPE['CKWLJJLXX'] => '仓库物流寄件量信息',
+IResourceCatalog::TYPE['CKWLYQXX'] => '仓库物流逾期信息',
+IResourceCatalog::TYPE['GYSYJFXXFR'] => '公用事业缴费信息（法人）',
+IResourceCatalog::TYPE['GYSYJFXXZRR'] => '公用事业缴费信息（自然人）',
+IResourceCatalog::TYPE['GYSYTQFYXXFR'] => '公用事业拖欠费用信息（法人）',
+IResourceCatalog::TYPE['GYSYTQFYXXZRR'] => '公用事业拖欠费用信息（自然人）',
+IResourceCatalog::TYPE['SXBZXRMDYPB'] => '失信被执行人名单_已屏蔽',
+        //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
 }
