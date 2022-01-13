@@ -838,17 +838,50 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['ZRRBLXYJLXX'],
             self::TYPE['FRCXXYJLXX'],
             self::TYPE['ZRRCXXYJLXX']),
-        IUserGroup::ID['CPQFGJ'] => array(),
-        IUserGroup::ID['NXQFGJ'] => array(),
-        IUserGroup::ID['XZQFGJ'] => array(),
-        IUserGroup::ID['JAXFGJ'] => array(),
-        IUserGroup::ID['CNXFGJ'] => array(),
-        IUserGroup::ID['GXFGJ'] => array(),
-        IUserGroup::ID['JLXFGJ'] => array(),
-        IUserGroup::ID['HXFGJ'] => array(),
-        IUserGroup::ID['XWXFGJ'] => array(),
-        IUserGroup::ID['PSXFGJ'] => array(),
-        IUserGroup::ID['LGJKQFZCHTZFWJ'] => array(),
+        IUserGroup::ID['CPQFGJ'] => array(
+            self::TYPE['FRBLXYJLXX'],
+            self::TYPE['ZRRBLXYJLXX'],
+        ),
+        IUserGroup::ID['NXQFGJ'] => array(
+            self::TYPE['FRBLXYJLXX'],
+            self::TYPE['ZRRBLXYJLXX'],
+        ),
+        IUserGroup::ID['XZQFGJ'] => array(
+            self::TYPE['FRBLXYJLXX'],
+            self::TYPE['ZRRBLXYJLXX'],
+        ),
+        IUserGroup::ID['JAXFGJ'] => array(
+            self::TYPE['FRBLXYJLXX'],
+            self::TYPE['ZRRBLXYJLXX'],
+        ),
+        IUserGroup::ID['CNXFGJ'] => array(
+            self::TYPE['FRBLXYJLXX'],
+            self::TYPE['ZRRBLXYJLXX'],
+        ),
+        IUserGroup::ID['GXFGJ'] => array(
+            self::TYPE['FRBLXYJLXX'],
+            self::TYPE['ZRRBLXYJLXX'],
+        ),
+        IUserGroup::ID['JLXFGJ'] => array(
+            self::TYPE['FRBLXYJLXX'],
+            self::TYPE['ZRRBLXYJLXX'],
+        ),
+        IUserGroup::ID['HXFGJ'] => array(
+            self::TYPE['FRBLXYJLXX'],
+            self::TYPE['ZRRBLXYJLXX'],
+        ),
+        IUserGroup::ID['XWXFGJ'] => array(
+            self::TYPE['FRBLXYJLXX'],
+            self::TYPE['ZRRBLXYJLXX'],
+        ),
+        IUserGroup::ID['PSXFGJ'] => array(
+            self::TYPE['FRBLXYJLXX'],
+            self::TYPE['ZRRBLXYJLXX'],
+        ),
+        IUserGroup::ID['LGJKQFZCHTZFWJ'] => array(
+            self::TYPE['FRBLXYJLXX'],
+            self::TYPE['ZRRBLXYJLXX'],
+        ),
         IUserGroup::ID['SXYZX'] => array(
             self::TYPE['SCJRSXYZX'],
             self::TYPE['ZDSSWFAJDSRSXYZX'],
