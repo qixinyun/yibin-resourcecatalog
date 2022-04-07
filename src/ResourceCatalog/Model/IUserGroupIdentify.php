@@ -80,5 +80,8 @@ interface IUserGroupIdentify
         IUserGroup::ID['YBHRRQ'] => 'YBHRRQ',
         IUserGroup::ID['YBQYSW'] => 'YBQYSW',
         IUserGroup::ID['GWSCSDLYBGDJ'] => 'GWSCSDLYBGDJ',
+        IUserGroup::ID['SYBJ'] => 'SYBJ',
+        IUserGroup::ID['SXFJQZD'] => 'SXFJQZD',
+        IUserGroup::ID['SJTYSZHXZZFZD'] => 'SJTYSZHXZZFZD'
     );
 }

@@ -80,5 +80,8 @@ interface IUserGroup extends IUserGroupIdentify
         'XWXFGJ' => 900,
         'PSXFGJ' => 1000,
         'LGJKQFZCHTZFWJ' => 1100,
+        'SYBJ' => 1107,
+        'SXFJQZD' => 1114,
+        'SJTYSZHXZZFZD' => 1121,
     );
 }
