@@ -144,6 +144,14 @@ IResourceCatalog::TYPE['GYSYJFXXZRR'] => '公用事业缴费信息（自然人�
 IResourceCatalog::TYPE['GYSYTQFYXXFR'] => '公用事业拖欠费用信息（法人）',
 IResourceCatalog::TYPE['GYSYTQFYXXZRR'] => '公用事业拖欠费用信息（自然人）',
 IResourceCatalog::TYPE['SXBZXRMDYPB'] => '失信被执行人名单_已屏蔽',
+IResourceCatalog::TYPE['BDCDJQK'] => '不动产登记情况',
+IResourceCatalog::TYPE['FCDYXX'] => '房产抵押信息',
+IResourceCatalog::TYPE['KJYFXX'] => '科技研发信息',
+IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
+IResourceCatalog::TYPE['XZQRXX'] => '行政确认信息',
+IResourceCatalog::TYPE['XZJLXX'] => '行政奖励信息',
+IResourceCatalog::TYPE['XZJCXX'] => '行政检查信息',
+IResourceCatalog::TYPE['XZCJXX'] => '行政裁决信息',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
