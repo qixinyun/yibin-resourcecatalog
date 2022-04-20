@@ -148,6 +148,11 @@ IResourceCatalog::TYPE['SXBZXRMDYPB'] => 'sxbzxrmdypb',
 IResourceCatalog::TYPE['KJYFXX'] => 'kjyfxx',
 IResourceCatalog::TYPE['BDCDJQK'] => 'bdcdjqk',
 IResourceCatalog::TYPE['FCDYXX'] => 'fcdyxx',
+IResourceCatalog::TYPE['XZCJXX'] => 'xzcjxx',
+IResourceCatalog::TYPE['XZJCXX'] => 'xzjcxx',
+IResourceCatalog::TYPE['XZJLXX'] => 'xzjlxx',
+IResourceCatalog::TYPE['XZQRXX'] => 'xzqrxx',
+IResourceCatalog::TYPE['XZQZXX'] => 'xzqzxx',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'test'
     );
