@@ -144,14 +144,9 @@ IResourceCatalog::TYPE['GYSYJFXXZRR'] => 'GYSYJFXXZRR',
 IResourceCatalog::TYPE['GYSYTQFYXXFR'] => 'GYSYTQFYXXFR',
 IResourceCatalog::TYPE['GYSYTQFYXXZRR'] => 'GYSYTQFYXXZRR',
 IResourceCatalog::TYPE['SXBZXRMDYPB'] => 'SXBZXRMDYPB',
+IResourceCatalog::TYPE['KJYFXX'] => 'KJYFXX',
 IResourceCatalog::TYPE['BDCDJQK'] => 'BDCDJQK',
 IResourceCatalog::TYPE['FCDYXX'] => 'FCDYXX',
-IResourceCatalog::TYPE['KJYFXX'] => 'KJYFXX',
-IResourceCatalog::TYPE['XZQZXX'] => 'XZQZXX',
-IResourceCatalog::TYPE['XZQRXX'] => 'XZQRXX',
-IResourceCatalog::TYPE['XZJLXX'] => 'XZJLXX',
-IResourceCatalog::TYPE['XZJCXX'] => 'XZJCXX',
-IResourceCatalog::TYPE['XZCJXX'] => 'XZCJXX',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'TEST'
     );

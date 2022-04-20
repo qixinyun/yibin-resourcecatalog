@@ -144,15 +144,10 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'GYSYTQFYXXFR'=>137,
         'GYSYTQFYXXZRR'=>138,
         'SXBZXRMDYPB'=>139,
-'BDCDJQK'=>140,
-'FCDYXX'=>141,
-'KJYFXX'=>142,
-'XZQZXX'=>143,
-'XZQRXX'=>144,
-'XZJLXX'=>145,
-'XZJCXX'=>146,
-'XZCJXX'=>147,
-        //@position_type_148
+'KJYFXX'=>140,
+'BDCDJQK'=>141,
+'FCDYXX'=>142,
+        //@position_type_143
         'TEST' => 500,
     );
 
