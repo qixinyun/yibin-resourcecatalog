@@ -156,8 +156,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['NSXX'] => '纳税信息',
         IResourceCatalog::TYPE['NSXYDJXX'] => '纳税信用等级信息',
         IResourceCatalog::TYPE['QSXX'] => '欠税信息',
-IResourceCatalog::TYPE['RQFXX'] => '燃气费信息',
-IResourceCatalog::TYPE['SFXX'] => '水费信息',
+        IResourceCatalog::TYPE['RQFXX'] => '燃气费信息',
+        IResourceCatalog::TYPE['SFXX'] => '水费信息',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );

@@ -157,8 +157,8 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['NSXX'] => 'nsxx',
         IResourceCatalog::TYPE['NSXYDJXX'] => 'nsxydjxx',
         IResourceCatalog::TYPE['QSXX'] => 'qsxx',
-IResourceCatalog::TYPE['RQFXX'] => 'rqfxx',
-IResourceCatalog::TYPE['SFXX'] => 'sfxx',
+        IResourceCatalog::TYPE['RQFXX'] => 'rqfxx',
+        IResourceCatalog::TYPE['SFXX'] => 'sfxx',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'test'
     );
