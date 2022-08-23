@@ -627,18 +627,21 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['YCJYMLSXYZX'],
         ),
         IUserGroup::ID['YBZQTRQ'] => array(
+            self::TYPE['RQFXX'],
             self::TYPE['GYSYTQFYXXZRR'],
             self::TYPE['GYSYTQFYXXFR'],
             self::TYPE['GYSYJFXXZRR'],
             self::TYPE['GYSYJFXXFR'],
         ),
         IUserGroup::ID['YBHRRQ'] => array(
+            self::TYPE['RQFXX'],
             self::TYPE['GYSYTQFYXXZRR'],
             self::TYPE['GYSYTQFYXXFR'],
             self::TYPE['GYSYJFXXZRR'],
             self::TYPE['GYSYJFXXFR'],
         ),
         IUserGroup::ID['YBQYSW'] => array(
+            self::TYPE['SFXX'],
             self::TYPE['GYSYTQFYXXZRR'],
             self::TYPE['GYSYTQFYXXFR'],
             self::TYPE['GYSYJFXXZRR'],
