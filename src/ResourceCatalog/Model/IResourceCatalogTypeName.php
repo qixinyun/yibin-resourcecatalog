@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IResourceCatalogTypeName
@@ -158,6 +159,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QSXX'] => '欠税信息',
         IResourceCatalog::TYPE['RQFXX'] => '燃气费信息',
         IResourceCatalog::TYPE['SFXX'] => '水费信息',
+        IResourceCatalog::TYPE['GXJSQYRDXX'] => '高新技术企业认定信息',
+        IResourceCatalog::TYPE['YYCLXX'] => '营运车辆信息',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );

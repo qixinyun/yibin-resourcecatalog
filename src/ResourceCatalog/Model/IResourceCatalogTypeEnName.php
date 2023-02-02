@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IResourceCatalogTypeEnName
@@ -159,6 +160,8 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['QSXX'] => 'qsxx',
         IResourceCatalog::TYPE['RQFXX'] => 'rqfxx',
         IResourceCatalog::TYPE['SFXX'] => 'sfxx',
+        IResourceCatalog::TYPE['GXJSQYRDXX'] => 'gxjsqyrdxx',
+        IResourceCatalog::TYPE['YYCLXX'] => 'yyclxx',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'test'
     );
