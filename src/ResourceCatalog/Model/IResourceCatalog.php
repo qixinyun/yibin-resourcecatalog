@@ -342,7 +342,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XZQZXX'],
         ),
         IUserGroup::ID['SJTYSJ'] => array(
-            self::TYPE['YYCLXX'],
             self::TYPE['SLYSXKZXX'],
             self::TYPE['GRRYXXJTJ'],
             self::TYPE['XZCJXX'],
