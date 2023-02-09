@@ -160,8 +160,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'RQFXX' => 152,
         'SFXX' => 153,
         'GXJSQYRDXX' => 154,
-        'YYCLXX' => 156,
-        //@position_type_157
+        //@position_type_156
         'TEST' => 500,
     );
 
