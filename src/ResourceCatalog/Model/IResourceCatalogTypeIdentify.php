@@ -160,6 +160,8 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['RQFXX'] => 'RQFXX',
         IResourceCatalog::TYPE['SFXX'] => 'SFXX',
         IResourceCatalog::TYPE['GXJSQYRDXX'] => 'GXJSQYRDXX',
+        IResourceCatalog::TYPE['NJSHEIMDXX'] => 'NJSHEIMDXX',
+        IResourceCatalog::TYPE['NJSHONGMDXX'] => 'NJSHONGMDXX',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'TEST'
     );

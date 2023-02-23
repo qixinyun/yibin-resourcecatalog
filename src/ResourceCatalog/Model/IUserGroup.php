@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IUserGroup extends IUserGroupIdentify
@@ -83,5 +84,6 @@ interface IUserGroup extends IUserGroupIdentify
         'SYBJ' => 1107,
         'SXFJQZD' => 1114,
         'SJTYSZHXZZFZD' => 1121,
+        'NJSFGJ' => 1200,
     );
 }

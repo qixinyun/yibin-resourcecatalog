@@ -160,6 +160,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['RQFXX'] => '燃气费信息',
         IResourceCatalog::TYPE['SFXX'] => '水费信息',
         IResourceCatalog::TYPE['GXJSQYRDXX'] => '高新技术企业认定信息',
+        IResourceCatalog::TYPE['NJSHEIMDXX'] => '黑名单(内江市)',
+        IResourceCatalog::TYPE['NJSHONGMDXX'] => '红名单(内江市)',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'
     );
